@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Luis Torres
 
-<!--
-**6v11z/6v11z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Civil Computer Engineering student at Universidad Andrés Bello, currently in my fifth and final year.
 
-Here are some ideas to get you started:
+💻 My GitHub mainly hosts university-related tasks and academic projects, ranging from software development to data processing and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ I frequently work with:
+- **Python**
+- **JavaScript**
+- **TypeScript**
+
+📚 I'm passionate about learning and applying technology to solve real-world problems. I enjoy experimenting with code, collaborating on team projects, and improving my skills across different programming languages and tools.
+
+📫 Feel free to explore my repositories or connect with me!
